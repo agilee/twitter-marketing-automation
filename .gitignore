@@ -1,0 +1,30 @@
+### Meteor Files
+
+.meteor/local
+.meteor/meteorite
+.demeteorized
+
+### Deployment scripts
+
+mup.json
+deploy.sh
+.deploy
+.deploy/*
+
+### Specific to Node
+
+npm-debug.log
+
+### CSS Preprocessors
+
+*.scssc
+.sass-cache/*
+
+### Configuration files for Editors
+
+*.sublime-project
+*.sublime-workspace
+
+### Miscellaneous
+
+.DS_Store
